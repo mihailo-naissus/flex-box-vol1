@@ -9,7 +9,6 @@ body {
 }
 
 .flexbox-item {
-
     width: 200px;
     margin: 10px;
     border: 5px solid gray;
@@ -17,14 +16,15 @@ body {
 }
 
 .flexbox-item-1 {
+    
     min-height: 100px;
 }
 
 .flexbox-item-2 {
+    
     min-height: 200px;
 }
 
 .flexbox-item-3 {
-
     min-height: 300px;
 }
