@@ -6,7 +6,6 @@ Body
 
 The body element has a dark grey background color and a large font size.
 
-
 Flexbox Container
 The .flexbox-container class has a yellow background color and is set to display as a flex container.
 
