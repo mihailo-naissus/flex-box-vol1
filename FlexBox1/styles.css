@@ -2,7 +2,6 @@ body {
     background-color: rgb(31, 31, 31);
     font-size: 28px;
 }
-
 .flexbox-container {
     background-color: yellow;
     display: flex;
