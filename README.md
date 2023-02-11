@@ -1,7 +1,6 @@
 Flexbox Layout
 This code provides styles for a simple flexbox layout.
 
-
 Body
 
 The body element has a dark grey background color and a large font size.
