@@ -15,5 +15,3 @@ Consider using a CSS preprocessor, such as Sass, to better organize and maintain
 Use more descriptive class names to improve code readability.
 Add comments to the code to provide more context and make it easier for others to understand and work with.
 
-
-
